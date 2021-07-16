@@ -4,7 +4,17 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiydavid?tab=repositories)
 
-Current projects:
+---
+## Experiences:
+* **Data Scientist / Analytics Manager**, Nike Inc, *Nov 2018 – Sep 2021*
+* **Research Manager**, Vanguard Group Inc, *Nov 2015 - Oct 2018*
+* **Analyst**, Vanguard Group Inc, *Oct 2011 - Oct 2015*
+
+## Education:
+* **MS, Business Analytics**, New York University, *Mar 2018 – May 2019*
+* **BS, Finance**, Penn State University, *Aug 2007 - May 2011*
+
+## Current Projects:
 * Weights & Biases' group reading of *Deep Learning for Coders*, aka FastBook.
 * MNIST on PyTorch
 
