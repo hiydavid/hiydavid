@@ -4,6 +4,10 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiydavid?tab=repositories)
 
+Current projects:
+* Weights & Biases' group reading of *Deep Learning for Coders*, aka FastBook.
+* MNIST on PyTorch
+
 <!--
 **hiydavid/hiydavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
