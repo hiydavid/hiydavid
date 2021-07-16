@@ -15,8 +15,9 @@
 * **BS, Finance**, Penn State University, *Aug 2007 - May 2011*
 
 ## Current Projects:
-* Weights & Biases' group reading of *Deep Learning for Coders*, aka FastBook.
+* Reading through *Deep Learning for Coders with fastai & PyTorch*
 * MNIST on PyTorch
+* Numerai competition
 
 <!--
 **hiydavid/hiydavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
