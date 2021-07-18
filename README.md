@@ -16,7 +16,6 @@
 
 ## Current Projects:
 * Reading through *Deep Learning for Coders with fastai & PyTorch*
-* MNIST on PyTorch
 * Numerai competition
 
 <!--
