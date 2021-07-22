@@ -6,7 +6,8 @@
 
 ---
 ## Experiences:
-* **Data Scientist / Analytics Manager**, Nike Inc, *Nov 2018 – Present*
+* **Machine Learning Scientist**, Apex Clearing Corporation, *Sep 2021 - Present*
+* **Data Scientist / Analytics Manager**, Nike Inc, *Nov 2018 – Aug 2021*
 * **Research Manager**, Vanguard Group Inc, *Nov 2015 - Oct 2018*
 * **Analyst**, Vanguard Group Inc, *Oct 2011 - Oct 2015*
 
