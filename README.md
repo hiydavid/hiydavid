@@ -16,7 +16,7 @@
 * **BS, Finance**, Penn State University, *Aug 2007 - May 2011*
 
 ## Current Projects:
-* Reading through *Deep Learning for Coders with fastai & PyTorch*
+* Following through on *Deep Learning for Coders with fastai & PyTorch*
 * Numerai competition
 
 <!--
