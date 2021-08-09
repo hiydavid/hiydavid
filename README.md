@@ -18,5 +18,4 @@
 ## Current Projects:
 * Following through on *Deep Learning for Coders with fastai & PyTorch*
 * Following through on *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*
-* Nike Air Classifier (with Multi-Label Classification)
 * Numerai competition
