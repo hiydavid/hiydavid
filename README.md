@@ -18,4 +18,5 @@
 ## Current Projects:
 * Following through on *Deep Learning for Coders with fastai & PyTorch*
 * Following through on *Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow*
+* Focusing applying NNs on tabular data
 * Numerai competition
