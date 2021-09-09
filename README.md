@@ -20,3 +20,8 @@
 * Following through on *Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow*
 * Focusing applying NNs on tabular data
 * Numerai competition
+
+## Key Skills:
+```
+Time series forecasting // Time series clustering // Ensemble methods
+```
