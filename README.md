@@ -18,6 +18,7 @@
 ## Current Projects:
 * Focusing on deep learning for tabular data
 * Focusing on deep learning for time series data
+* Working towards obtaining the TensorFlow Developer Certificate
 
 ## Key Skills:
 ```
