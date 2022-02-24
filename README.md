@@ -16,10 +16,8 @@
 * **BS, Finance**, Penn State University, *Aug 2007 - May 2011*
 
 ## Current Projects:
-* Following through on *Deep Learning for Coders with fastai & PyTorch*
-* Following through on *Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow*
-* Focusing applying NNs on tabular data
-* Numerai competition
+* Focusing on deep learning for tabular data
+* Focusing on deep learning for time series data
 
 ## Key Skills:
 ```
