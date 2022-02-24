@@ -22,5 +22,5 @@
 
 ## Key Skills:
 ```
-Time series forecasting // Time series clustering // Ensemble methods
+Time series forecasting // Ensemble methods // clustering
 ```
