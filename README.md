@@ -22,5 +22,6 @@
 
 ## Key Skills:
 ```
-Time series analysis & forecasting // Ensemble tree models // clustering // imbalanced classification // survival analysis
+Time series analysis & forecasting // Ensemble tree models // Clustering // Imbalanced classification // 
+Survival analysis
 ```
