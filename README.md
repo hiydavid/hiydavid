@@ -16,8 +16,8 @@
 * **BS, Finance**, Penn State University, *Aug 2007 - May 2011*
 
 ## Current Projects:
-* Focusing on deep learning for tabular data
-* Focusing on deep learning for time series data
+* Numerai competition
+* Focusing on deep learning for tabular & time series data
 * Working towards obtaining the TensorFlow Developer Certificate
 
 ## Key Skills:
