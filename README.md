@@ -21,7 +21,8 @@
 * Working towards obtaining the TensorFlow Developer Certificate
 
 ## Key Skills:
-```
-Time series analysis & forecasting // Ensemble tree models // Clustering // 
-Imbalanced classification // Survival analysis
-```
+* Time series analysis & forecasting
+* Gradient boosting tree models
+* Clustering
+* Imbalanced classification
+* Survival analysis
