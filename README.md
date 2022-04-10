@@ -18,7 +18,6 @@
 ## Current Projects:
 * Numerai competition
 * Focusing on deep learning for tabular & time series data
-* Working towards obtaining the TensorFlow Developer Certificate
 
 ## Key Skills:
 * Time series analysis & forecasting
