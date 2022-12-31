@@ -7,7 +7,7 @@
 ## Experiences:
 * **Senior Machine Learning Scientist**, Apex Fintech Solutions, *Since Dec 2022*
 * **Machine Learning Scientist**, Apex Fintech Solutions, *Sep 2021 – Dec 2022*
-* **Data Scientist**, Nike Inc., *Nov 2018 – Aug 2021*
+* **Data Scientist**, Nike Inc., *Nov 2018 – Sep 2021*
 * **Research Manager**, Vanguard Group Inc., *Oct 2017 – Oct 2018*
 * **Senior Analyst**, Vanguard Group Inc., *Oct 2015 – Oct 2017*
 * **Analyst**, Vanguard Group Inc., *Oct 2011 – Oct 2015*
