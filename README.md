@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiydavid?tab=repositories)
 
 ## Experiences:
-> Apex Fintech Solutions, a Peak6 Company
+> Apex Fintech Solutions, a PEAK6 Company
 * **Senior Machine Learning Scientist**, *Since Dec 2022*
 * **Machine Learning Scientist**, *Sep 2021 – Dec 2022*
 > Nike, Inc.
