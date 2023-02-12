@@ -30,3 +30,4 @@
 * Imbalanced classification
 * Survival analysis
 * Model explainability
+* Recommender & ranking models
