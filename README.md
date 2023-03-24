@@ -28,6 +28,6 @@
 * Gradient boosting tree models
 * Clustering
 * Imbalanced classification
-* Survival analysis
+* Survival analysis & harzard modeling
 * Model explainability
 * Recommender & ranking models
