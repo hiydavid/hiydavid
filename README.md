@@ -21,7 +21,7 @@
 
 ## Current Projects:
 * Focusing on deep learning for tabular & time series data
-* Learning prompt engineering
+* On the side building an app using ChatGPT and AutoGPT
 
 ## Key Skills:
 * Time series analysis & forecasting
