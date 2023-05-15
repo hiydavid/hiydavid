@@ -5,15 +5,18 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiydavid?tab=repositories)
 
 ## Experiences:
-> Apex Fintech Solutions, a PEAK6 Company
-* **Senior Machine Learning Scientist**, *Since Dec 2022*
-* **Machine Learning Scientist**, *Sep 2021 – Dec 2022*
-> Nike, Inc.
-* **Data Scientist**, Nike Inc., *Nov 2018 – Sep 2021*
-> The Vanguard Group, Inc.
-* **Research Manager**, Vanguard Group Inc., *Oct 2017 – Oct 2018*
-* **Senior Analyst**, Vanguard Group Inc., *Oct 2015 – Oct 2017*
-* **Analyst**, Vanguard Group Inc., *Oct 2011 – Oct 2015*
+
+**Apex Fintech Solutions, a PEAK6 Company**
+* Senior Machine Learning Scientist, Since Dec 2022
+* Machine Learning Scientist, Sep 2021 – Dec 2022
+
+**Nike, Inc.**
+* Data Scientist, Nov 2018 – Sep 2021
+
+**The Vanguard Group, Inc.**
+* Research Manager, Nov 2018 – Sep 2021
+* Senior Analyst, Oct 2015 – Oct 2017
+8 Analyst, Oct 2011 – Oct 2015
 
 ## Education:
 * **MS, Business Analytics**, New York University, *Mar 2018 – May 2019*
