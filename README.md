@@ -23,8 +23,8 @@
 * **BS, Finance**, Penn State University, *Aug 2007 – May 2011*
 
 ## Current Projects:
+* Building something in stealth-mode
 * Focusing on deep learning for tabular & time series data
-* On the side building an app using ChatGPT and AutoGPT
 
 ## Key Skills:
 * Time series analysis & forecasting
