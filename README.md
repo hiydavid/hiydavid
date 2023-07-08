@@ -19,7 +19,7 @@
 8 Analyst, Oct 2011 – Oct 2015
 
 ## Education:
-* **MS, Business Analytics**, New York University, *Mar 2018 – May 2019*
+* **MS, Business Analytics & Data Science**, New York University, *Mar 2018 – May 2019*
 * **BS, Finance**, Penn State University, *Aug 2007 – May 2011*
 
 ## Current Projects:
