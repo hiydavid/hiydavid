@@ -27,6 +27,7 @@
 * Focusing on deep learning for tabular & time series data
 
 ## Key Skills:
+* Prompt / LLM engineering
 * Time series analysis & forecasting
 * Gradient boosting tree models
 * Clustering
