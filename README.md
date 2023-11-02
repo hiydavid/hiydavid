@@ -16,7 +16,7 @@
 **The Vanguard Group, Inc.**
 * Research Manager, Nov 2018 – Sep 2021
 * Senior Analyst, Oct 2015 – Oct 2017
-8 Analyst, Oct 2011 – Oct 2015
+* Analyst, Oct 2011 – Oct 2015
 
 ## Education:
 * **MS, Business Analytics & Data Science**, New York University, *Mar 2018 – May 2019*
