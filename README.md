@@ -6,7 +6,7 @@
 
 ## Experiences:
 
-**Apex Fintech Solutions, a PEAK6 Company**
+**Apex Fintech Solutions LLC, a PEAK6 Company**
 * Senior Machine Learning Scientist, Since Dec 2022
 * Machine Learning Scientist, Sep 2021 – Dec 2022
 
