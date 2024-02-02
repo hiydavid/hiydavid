@@ -7,7 +7,7 @@
 ## Experiences:
 
 **Databricks, Inc.**
-* Machine Learning Solutions Architect, Since Jan 2024
+* AI/ML Specialist Solutions Architect, Since Jan 2024
 
 **Apex Fintech Solutions LLC, a PEAK6 Company**
 * Senior Machine Learning Scientist, Dec 2022 - Jan 2024
