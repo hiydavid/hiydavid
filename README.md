@@ -25,12 +25,8 @@
 * **MS, Business Analytics & Data Science**, New York University, *Mar 2018 – May 2019*
 * **BS, Finance**, Penn State University, *Aug 2007 – May 2011*
 
-## Current Projects:
-* Building something in stealth-mode
-* Focusing on deep learning for tabular & time series data
-
 ## Key Skills:
-* Prompt / LLM engineering
+* LLM (prompt engineering, RAGs, finetuning)
 * Time series analysis & forecasting
 * Gradient boosting tree models
 * Clustering
