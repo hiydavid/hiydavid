@@ -26,11 +26,9 @@
 * **BS, Finance**, Penn State University, *Aug 2007 – May 2011*
 
 ## Key Skills:
-* LLM (prompt engineering, RAGs, finetuning)
+* AI Agents & RAGs
+* LLMs (prompt engineering and finetuning)
 * Time series analysis & forecasting
 * Gradient boosting tree models
 * Clustering
 * Imbalanced classification
-* Survival analysis & harzard modeling
-* Model explainability
-* Recommender & ranking models
