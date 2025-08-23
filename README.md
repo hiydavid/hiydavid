@@ -79,10 +79,11 @@ I'm an AI/ML Solutions Architect passionate about building intelligent systems t
 
 ## 📝 Blog Posts
 
-- [Structured Extraction with LLM on Databricks: Part 1: Batch Extraction](https://medium.com/@hiydavid/structured-extraction-with-llm-on-databricks-part-1-batch-extraction-fda3f4553ec0)
-- [Structured Extraction with LLM on Databricks: Part 2: Fine-Tuning with Synthetic Data](https://medium.com/@hiydavid/structured-extraction-with-llm-on-databricks-part-2-fine-tuning-with-synthetic-data-021cc4b1776b)
-- [Building a Multi-Agent System with OpenAI Agents SDK on Databricks](https://medium.com/@AI-on-Databricks/building-a-multi-agent-system-with-openai-agents-sdk-on-databricks-6b6ad6774477)
-- [Augmenting Your Genie Space with Multi-Step Research](https://medium.com/@hiydavid/augmenting-your-genie-space-with-multi-step-research-e11324491076)
+- [Aug 2025] [Augmenting Your Genie Space with Multi-Step Research](https://medium.com/@hiydavid/augmenting-your-genie-space-with-multi-step-research-e11324491076)
+- [Apr 2025] [Building a Multi-Agent System with OpenAI Agents SDK on Databricks](https://medium.com/@AI-on-Databricks/building-a-multi-agent-system-with-openai-agents-sdk-on-databricks-6b6ad6774477)
+- [Dec 2024] [Structured Extraction with LLM on Databricks: Part 2: Fine-Tuning with Synthetic Data](https://medium.com/@hiydavid/structured-extraction-with-llm-on-databricks-part-2-fine-tuning-with-synthetic-data-021cc4b1776b)
+- [Nov 2024] [Structured Extraction with LLM on Databricks: Part 1: Batch Extraction](https://medium.com/@hiydavid/structured-extraction-with-llm-on-databricks-part-1-batch-extraction-fda3f4553ec0)
+
 
 ## 🎯 Core Competencies
 
