@@ -40,6 +40,7 @@ I'm an AI/ML Solutions Architect, passionate about building intelligent systems 
 
 ## 📝 Blog Posts
 
+- [Dec 2025] [How to Engineer Prompts with Data, Not Vibes: A Primer on GEPA](https://medium.com/@hiydavid/how-to-engineer-prompts-with-data-not-vibes-a-primer-on-gepa-cb7a6bc34257)
 - [Nov 2025] [Specializing Claude Code: A Quick Guide to Agent Skills and MCP on Databricks](https://medium.com/@hiydavid/specializing-claude-code-a-quick-guide-to-agent-skills-and-mcp-on-databricks-c0cfdd43637d)
 - [Aug 2025] [Augmenting Your Genie Space with Multi-Step Research](https://medium.com/@hiydavid/augmenting-your-genie-space-with-multi-step-research-e11324491076)
 - [Apr 2025] [Building a Multi-Agent System with OpenAI Agents SDK on Databricks](https://medium.com/@AI-on-Databricks/building-a-multi-agent-system-with-openai-agents-sdk-on-databricks-6b6ad6774477)
