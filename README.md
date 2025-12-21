@@ -33,10 +33,16 @@ I'm an AI/ML Solutions Architect, passionate about building intelligent systems 
 * Senior Analyst, *Oct 2015 – Oct 2017*
 * Analyst, *Oct 2011 – Oct 2015*
 
-## Education:
+## 🎓 Education
 
 * **MS, Business Analytics & Data Science**, New York University, *Mar 2018 – May 2019*
 * **BS, Finance**, Penn State University, *Aug 2007 – May 2011*
+
+## 🔨 Current Projects
+
+* [dbx-genie-rx](https://github.com/hiydavid/dbx-genie-rx): A Databricks Genie Space Analyser
+* [dbx-personal-finance-app](https://github.com/hiydavid/dbx-personal-finance-app): An AI-Powered Personal Finance App
+* [dbx-research-task-app](https://github.com/hiydavid/dbx-research-task-app): An AI Research Assistant App
 
 ## 📝 Blog Posts
 
