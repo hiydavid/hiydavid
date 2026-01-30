@@ -41,11 +41,11 @@ I'm an AI/ML Solutions Architect, passionate about building intelligent systems 
 ## 🔨 Current Projects
 
 * [dbx-genie-rx](https://github.com/hiydavid/dbx-genie-rx): A Databricks Genie Space Analyser
-* [dbx-personal-finance-app](https://github.com/hiydavid/dbx-personal-finance-app): An AI-Powered Personal Finance App
 * [dbx-research-task-app](https://github.com/hiydavid/dbx-research-task-app): An AI Research Assistant App
 
 ## 📝 Blog Posts
 
+- [Jan 2026] [MLOps for AI/BI: Automating Databricks Genie Migrations](https://medium.com/@AI-on-Databricks/mlops-for-ai-bi-automating-databricks-genie-migrations-c17a80c25841)
 - [Dec 2025] [How to Engineer Prompts with Data, Not Vibes: A Primer on GEPA](https://medium.com/@hiydavid/how-to-engineer-prompts-with-data-not-vibes-a-primer-on-gepa-cb7a6bc34257)
 - [Nov 2025] [Specializing Claude Code: A Quick Guide to Agent Skills and MCP on Databricks](https://medium.com/@hiydavid/specializing-claude-code-a-quick-guide-to-agent-skills-and-mcp-on-databricks-c0cfdd43637d)
 - [Aug 2025] [Augmenting Your Genie Space with Multi-Step Research](https://medium.com/@hiydavid/augmenting-your-genie-space-with-multi-step-research-e11324491076)
