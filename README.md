@@ -41,7 +41,8 @@ I'm an AI/ML Solutions Architect, passionate about building intelligent systems 
 ## 🔨 Current Projects
 
 * [dbx-genie-rx](https://github.com/hiydavid/dbx-genie-rx): A Databricks Genie Space Analyser
-* [dbx-research-task-app](https://github.com/hiydavid/dbx-research-task-app): An AI Research Assistant App
+* [databricks-agent-skills](https://github.com/hiydavid/databricks-agent-skills): Useful agent skills for Databricks
+* [ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit): AI-driven developer tools for building on Databricks
 
 ## 📝 Blog Posts
 
