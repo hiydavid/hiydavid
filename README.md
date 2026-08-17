@@ -41,11 +41,13 @@ I'm an AI/ML Solutions Architect, passionate about building intelligent systems 
 ## 🔨 Current Projects
 
 * [databricks-genie-workbench](https://github.com/databricks-solutions/databricks-genie-workbench): A unified tool for creating, scoring, and optimizing Databricks Genie Spaces
+* [genie-code-plugins](https://github.com/hiydavid/genie-code-plugins/tree/main): MCPs and plugins for Databricks Genie Code
 * [databricks-agent-skills](https://github.com/hiydavid/databricks-agent-skills): A few useful Agent Skills for Databricks
 * [ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit): AI-driven developer tools for building on Databricks
 
 ## 📝 Blog Posts
 
+- [Aug 2026] [Genie Agent Optimization Loop with Genie Code: Tools & Tips](https://medium.com/@hiydavid/genie-agent-optimization-loop-with-genie-code-tools-tips-5b8797d9f53d)
 - [Jan 2026] [MLOps for AI/BI: Automating Databricks Genie Migrations](https://medium.com/@AI-on-Databricks/mlops-for-ai-bi-automating-databricks-genie-migrations-c17a80c25841)
 - [Dec 2025] [How to Engineer Prompts with Data, Not Vibes: A Primer on GEPA](https://medium.com/@hiydavid/how-to-engineer-prompts-with-data-not-vibes-a-primer-on-gepa-cb7a6bc34257)
 - [Nov 2025] [Specializing Claude Code: A Quick Guide to Agent Skills and MCP on Databricks](https://medium.com/@hiydavid/specializing-claude-code-a-quick-guide-to-agent-skills-and-mcp-on-databricks-c0cfdd43637d)
