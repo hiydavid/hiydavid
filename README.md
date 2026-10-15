@@ -47,6 +47,7 @@ I'm an AI/ML Solutions Architect, passionate about building intelligent systems 
 
 ## 📝 Blog Posts
 
+- [Oct 2026] [Genie One, My Daily AI Coworker](https://medium.com/@hiydavid/genie-one-my-daily-ai-coworker-2579b0903e57)
 - [Sep 2026] [Agentic Lakeflow with Genie Code Tasks](https://medium.com/@hiydavid/agentic-lakeflow-with-genie-code-tasks-899741c6bce4)
 - [Aug 2026] [Genie Agent Optimization Loop with Genie Code: Tools & Tips](https://medium.com/@hiydavid/genie-agent-optimization-loop-with-genie-code-tools-tips-5b8797d9f53d)
 - [Jan 2026] [MLOps for AI/BI: Automating Databricks Genie Migrations](https://medium.com/@AI-on-Databricks/mlops-for-ai-bi-automating-databricks-genie-migrations-c17a80c25841)
